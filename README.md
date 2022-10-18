@@ -1,2 +1,2 @@
 # Box-Model
-Includes just my index.html folder for the website.
+Includes my index.html and style.css folders for the website.
